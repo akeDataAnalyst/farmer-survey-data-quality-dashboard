@@ -1,5 +1,7 @@
 # Farmer Survey Data Quality & Impact Analysis Dashboard
 
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live%20Demo-brightgreen)](https://farmer-survey-data-quality-dashboard-xuey9e5ahlpu8srzthpfw6.streamlit.app/)
+
 ## Project Overview
 
 This end-to-end project simulates analysis of mobile-collected farmer survey data for agricultural insurance programs.  
