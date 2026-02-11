@@ -1,0 +1,15 @@
+# Core data processing & visualization
+pandas>=2.0.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning & modeling
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+
+# Dashboard & deployment
+streamlit>=1.38.0
+
+# Serialization & job handling
+joblib>=1.2.0
