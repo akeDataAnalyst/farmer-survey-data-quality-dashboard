@@ -14,9 +14,9 @@ st.set_page_config(
 st.title("🌾 Farmer Survey Data Quality & Insurance Impact Dashboard")
 st.markdown("""
 This interactive dashboard analyzes smallholder farmer survey data from East/Southern Africa (Ethiopia, Kenya, Zambia focus).  
-It highlights **insurance coverage**, **claim payouts**, **regional risks**, and **data quality issues** — simulating tools for agricultural insurance programs like Pula.
+It highlights insurance coverage, claim payouts, regional risks, and data quality issues.
 
-**Use filters** in the sidebar to explore. Data is synthetic but realistic for portfolio demonstration.
+Use filters in the sidebar to explore. Data is synthetic but realistic for portfolio demonstration.
 """)
 
 # Load data (cache for performance)
