@@ -5,7 +5,7 @@
 ## Project Overview
 
 This end-to-end project simulates analysis of mobile-collected farmer survey data for agricultural insurance programs.  
-It demonstrates the full data analyst workflow: synthetic data generation, quality assurance, KPI calculation, and interactive visualization.
+It demonstrates the full data analyst workflow: data generation, quality assurance, KPI calculation, and interactive visualization.
 
 **Business Problem**  
 Agricultural insurance relies on high-quality field survey data, but programs face:  
