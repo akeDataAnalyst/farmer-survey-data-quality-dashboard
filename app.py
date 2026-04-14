@@ -167,12 +167,6 @@ col_download2.download_button(
 # Footer / Portfolio Note
 st.markdown("---")
 st.caption("""
-**Developed by Aklilu Abera** | Inspired by agricultural insurance challenges in Africa  
-Demonstrates: Data cleaning (SOPs), quality scoring, KPI calculation, interactive visualization, and actionable insights.""")
-
-
-# In[ ]:
-
-
+**Developed by Aklilu Abera** | Inspired by agricultural insurance challenges in Africa""")
 
 
