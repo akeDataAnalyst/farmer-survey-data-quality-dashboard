@@ -14,9 +14,9 @@ st.set_page_config(
 st.title("Farmer Survey Data Quality & Insurance Impact Dashboard")
 st.markdown("""
 This interactive dashboard analyzes smallholder farmer survey data.  
-**Insurance coverage** - **Claim Payouts** - **Regional Risks** - **Data Quality issues.**
+- **Insurance coverage** - **Claim Payouts** - **Regional Risks** - **Data Quality issues**
 
-Use filters in the sidebar to explore. Data is synthetic but realistic for portfolio demonstration.
+Use filters in the sidebar to explore.
 """)
 
 # Load data (cache for performance)
