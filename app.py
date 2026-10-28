@@ -6,7 +6,7 @@ import plotly.graph_objects as go
 # Page config
 st.set_page_config(
     page_title="Farmer Survey & Insurance Impact Dashboard",
-    page_icon="🌾",
+    page_icon="",
     layout="wide"
 )
 
@@ -167,6 +167,6 @@ col_download2.download_button(
 # Footer / Portfolio Note
 st.markdown("---")
 st.caption("""
-**Developed by Aklilu Abera** | Inspired by agricultural insurance challenges in Africa""")
+**Developed by Aklilu Abera | Data Analyst** """)
 
 
